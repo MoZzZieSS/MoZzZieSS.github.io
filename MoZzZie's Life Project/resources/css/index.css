@@ -1,0 +1,80 @@
+body {
+    font-size: 36px;
+    color: whitesmoke;
+    background-color: #131313;
+    font-family: 'Amatic SC', cursive;
+
+}
+
+.introduction {
+    background-image:  url('./wallpapersden.com_cool-4k-pattern_3840x2160.jpg');
+    background-position: center;
+    background-color:#131313;
+    color: #ffffff70;
+    font-size: 36px;
+    margin: 0px;
+    margin-top: 0px;
+    font-family: 'Grechen Fuemen', cursive;
+}
+
+h1 {
+    font-size: 180px;
+    font-weight: 1000;
+    color: #ffffff70;
+    text-align: center;
+}
+
+.row {
+    display:flex;
+    text-align: center;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+    text-align: center;
+}
+
+.Single-player-table{
+    font-size: 30px;
+
+}
+
+.multiplayer-table {
+    font-size: 30px;
+}
+
+.Tv-Shows-table {
+    font-size: 30px;
+}
+
+table, td {
+    border: 1px solid rgb(58, 58, 58);
+    
+  }
+
+table {
+    width: 70%;
+    border-collapse:collapse;
+}
+
+h3 {
+    font-family: 'Permanent Marker', cursive;
+    background-color:#010101;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+}
+
+footer {
+    font-size: 18px;
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    background-color: #010101;
+}
+
+th {
+    background-color:  rgb(58, 58, 58);
+    color:#010101;
+    border: 1px solid #131313;
+}
